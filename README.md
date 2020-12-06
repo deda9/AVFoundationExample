@@ -33,7 +33,7 @@ func play() {
 }
 ```
 
-## Learn how to Play audio by AVAudioPlayer
+## Learn how to record audio by AVAudioRecorder
 
 <img src="https://github.com/deda9/AVFoundationExample/blob/main/recordAudio.png" width="300px"/>
 
