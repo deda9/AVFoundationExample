@@ -77,4 +77,4 @@ func record() {
 }
 ```
 
-- You can read the tutorial on [Medium Tutorial Link]()
+- You can read the tutorial on [Medium Tutorial Link](https://deda9.medium.com/ios-avfoundation-series-part-1-4eebaa837d9c)
